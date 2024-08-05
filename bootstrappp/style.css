@@ -1,0 +1,14 @@
+.card .card-body .card-title {
+    color: red;
+    text-align: center;
+}
+
+.carousel-inner {
+    height: 100vh;
+}
+.former{
+    padding: 10px;
+border: 1px solid red;
+border-radius: 5px;
+background-color: chocolate;
+}
